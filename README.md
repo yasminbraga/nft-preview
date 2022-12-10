@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontendmentor Solution](https://www.frontendmentor.io/solutions/nft-preview-card-component-ZAJlZbv9A-)
+- Live Site URL: [nft-preview](https://yasminbraga.github.io/nft-preview/)
 
 ## My process
 
@@ -41,26 +41,9 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-
-```js
-const proudOfThisFunc = () => {
-  console.log("🎉");
-};
-```
+The image hover effect was really interesting to do, first I used it with relative and absolute position and z-index, but I wanted a simpler way, and the solution covered that.
 
 ## Author
 
 - Frontend Mentor - [@yasminbraga](https://www.frontendmentor.io/profile/yasminbraga)
+- Instagram - [@yasminbragat](https://www.instagram.com/yasminbragat/)
