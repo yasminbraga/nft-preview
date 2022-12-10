@@ -47,7 +47,7 @@ main.container {
 .layer {
   width: 100%;
   height: 297px;
-  background-image: url(/assets/icon-view.svg);
+  background-image: url(/nft-preview/assets/icon-view.svg);
   background-color: var(--light-cyan);
   background-repeat: no-repeat;
   background-position: center;
